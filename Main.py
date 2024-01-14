@@ -6,3 +6,4 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi("Yehuda!!!!")
     print_hi("noooo")
+    print_hi("test1")
