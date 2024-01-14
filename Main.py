@@ -5,5 +5,5 @@ def print_hi(name):
 
 if __name__ == '__main__':
     print_hi("Yehuda!!!!")
-    print_hi("Boooooo0613")
-    print_hi("Boooooo0613")
+    print_hi("Yehuda!!!!")
+    print_hi("david")
